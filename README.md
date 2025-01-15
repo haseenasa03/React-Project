@@ -1,0 +1,1 @@
+This project is a simple calculator app built with React for the frontend and Node.js for the backend. The app calculates a result based on a weight input between 0 and 1 and displays the output on the screen.
